@@ -38,6 +38,6 @@ odd: 10
 ...
 Final id: 10
 
-💻 Author
+## 💻 Author
 Blessy Vinolin Chandrasekar
 📅 Created: August 2025
